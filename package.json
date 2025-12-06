@@ -10,6 +10,7 @@
     "optimize-image": "node scripts/optimize-image.js"
   },
   "dependencies": {
+    "lightningcss": "^1.30.2",
     "next": "16.0.7",
     "react": "19.2.0",
     "react-dom": "19.2.0"
